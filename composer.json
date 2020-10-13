@@ -12,7 +12,6 @@
   },
   "minimum-stability": "dev",
   "require": {
-    "drupal/core": "^8.0",
-    "kcmus/kcm": "~1.0"
+    "drupal/core": "^8.0"
   }
 }

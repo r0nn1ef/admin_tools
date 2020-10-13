@@ -1,0 +1,8 @@
+system.admin_tools:
+  path: '/admin/tools'
+  defaults:
+    _controller: '\Drupal\system\Controller\SystemController::overview'
+    link_id: 'system.admin_tools'
+    _title: 'Tools'
+  requirements:
+    _permission: 'access tools'

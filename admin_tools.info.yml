@@ -1,0 +1,5 @@
+name: 'Admin Tools'
+type: module
+description: 'Provides a new admin section named ''Tools''.'
+core: 8.x
+package: 'Other'

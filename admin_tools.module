@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * Implements hook_page_attachments()
+ *
+ * Add the custom admin css to support the new system menu item for 'Tools'.
+ * @param array $page
+ */
+function admin_tools_page_attachments(array &$page)
+{
+    if (\Drupal::service('router.admin_context')->isAdminRoute()) {
+        $page['#attached']['library'][] = 'admin_tools/default';
+    }
+}

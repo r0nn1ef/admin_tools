@@ -1,0 +1,6 @@
+system.admin_tools:
+  title: Tools
+  parent: system.admin
+  description: 'Various site tools not available elsewhere.'
+  route_name: system.admin_tools
+  weight: 4

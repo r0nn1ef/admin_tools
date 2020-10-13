@@ -1,0 +1,4 @@
+'access tools':
+  title: 'Access Tools'
+  description: 'Access ''Tools'' menu.'
+  restrict access: true

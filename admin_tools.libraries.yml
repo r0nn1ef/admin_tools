@@ -1,0 +1,5 @@
+default:
+  css:
+    theme:
+      css/admin-tools.css: {}
+  version: VERSION
