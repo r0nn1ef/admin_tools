@@ -5,7 +5,6 @@
  * Introduction
  * Requirements
  * Installation
- * Configuration
  * Using the Module
  * FAQ
  * Maintainers
@@ -19,8 +18,6 @@
  * [Drupal 8](https://drupal.org/project/drupal)
  
  ## Installation
- 
- ## Configuration
  
  ## Using the Module
  
