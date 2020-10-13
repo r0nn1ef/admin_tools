@@ -1,0 +1,18 @@
+{
+  "name": "r0nn1ef/admin_tools",
+  "type": "drupal-module",
+  "description": "Drupal 8 module that provides a new admin section named 'Tools'.",
+  "keywords": ["Drupal", "admin"],
+  "homepage": "https://github.com/r0nn1ef/admin_tools",
+  "license": "GPL-3.0-only / GPL-3.0-or-later",
+  "extra": {
+    "branch-alias": {
+      "8.x-1.x": "1.x-dev"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/core": "^8.0",
+    "kcmus/kcm": "~1.0"
+  }
+}
